@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 I’m currently working as JavaScript dev.
-- 🌱 I’m currently learning React, Angular & Vue JS.
+- 🌱 I never stop learning React, Angular & Vue JS.
 
 <hr>
 <div>

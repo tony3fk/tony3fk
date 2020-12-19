@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working as JavaScript dev.
 - 🌱 I never stop learning React, Angular & Vue JS.
+- Actually working in a GitLab project.
 
 <hr>
 <div>

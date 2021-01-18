@@ -1,4 +1,4 @@
-### I'm Tony Rodriguez. I'm a Web Developer.
+### I'm Tony. I'm a Web Developer.
 <hr>
 
 - 🔭 I’m currently working as JavaScript dev.

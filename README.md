@@ -1,8 +1,7 @@
 ### I'm Tony. I'm a Web Developer.
 <hr>
 
-- 🔭 I’m currently working as JavaScript dev.
-- 🌱 I never stop learning React, Angular & Vue JS.
+- 🔭 MERN stack dev.
 - Actually working in a GitLab project.
 
 <hr>

@@ -6,9 +6,7 @@
 
 <hr>
 <div>
-  <a href="https://twitter.com/tonydev_" rel="nofollow">
-    <img src="https://icon-library.com/images/twitter-logo-icon-png/twitter-logo-icon-png-29.jpg" alt="Twitter" title="Twitter" style="width:50;">
-  </a>
+ 
   
   <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Girl in a jacket" width="300" height="230">
   

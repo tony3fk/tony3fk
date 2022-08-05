@@ -7,8 +7,8 @@
 <hr>
 <div>
 
-   <a href="https://twitter.com/tonyrodz_" rel="nofollow">
-    <img src="https://icon-library.com/images/twitter-logo-icon-png/twitter-logo-icon-png-29.jpg" alt="Twitter" title="Twitter" style="width:50;">
+   <a href="https://www.linkedin.com/in/tonyrodz/" rel="nofollow">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" title="Linkedin" style="width:50;">
   </a>
 
 

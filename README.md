@@ -7,15 +7,14 @@
 <hr>
 <div>
 
-   <a href="https://www.linkedin.com/in/tonyrodz/" rel="nofollow">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" title="Linkedin" style="width:50;">
-  </a>
-
-
   <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Girl in a jacket" width="300" height="230">
 
   <a href="https://www.instagram.com/t0nydev_/" rel="nofollow">
     <img src="https://elmorotavern.com/wp-content/uploads/2014/06/instagram-icon-32x32-1.png" alt="Instagram" title="Instagram" style="width:50;">
+  </a>
+   
+    <a href="https://www.linkedin.com/in/tonyrodz/" rel="nofollow">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" title="Linkedin" style="max-width:23%;">
   </a>
 </div>
 

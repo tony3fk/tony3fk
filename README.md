@@ -9,7 +9,7 @@
   
 
    <a href="https://www.linkedin.com/in/tonyrodz/" rel="nofollow">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" title="Linkedin" style="max-width:23%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" title="Linkedin" style="width:23%;">
   </a>
   <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Girl in a jacket" width="300" height="230">
 

@@ -1,6 +1,45 @@
-### I'm Tony. I'm a Web Developer.
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/tony3fk/tony3fk/blob/master/devcard.svg" width="400" alt="Tony's Dev Card"/></a>
-<!--<hr>
+# Hi there 👋
+
+<div align="left">
+  <a href="https://twitter.com/tonydev_">
+    <img
+      src="https://img.shields.io/twitter/follow/tonydev_?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/tonyrodz/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://api.daily.dev/get?r=tonydev" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/tony3fk/tony3fk/devcard/devcard.svg"
+    />
+  </a>
+</div>
+
+## I am Tony Rodriguez
+
+- Developer at [iTech Global Solutions](https://itechglobal.solutions/)
+- Loves a freshly brewed cup of coffee
+
+![Metrics](https://raw.githubusercontent.com/tony3fk/tony3fk/github-metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/tony3fk/tony3fk/github-metrics/language.svg)
+![Notable contributions](https://raw.githubusercontent.com/tony3fk/tony3fk/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/tony3fk/tony3fk/github-metrics/achievements.svg)
+
+
+
+
+
+
+<!--### I'm Tony. I'm a Web Developer.
+<hr>
 
 - 🔭 MERN stack dev.
 - Actually working in a GitLab project.
@@ -33,3 +72,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+

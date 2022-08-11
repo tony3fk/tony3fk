@@ -1,5 +1,6 @@
 ### I'm Tony. I'm a Web Developer.
-<hr>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/tony3fk/tony3fk/blob/master/devcard.svg" width="400" alt="Tony's Dev Card"/></a>
+<!--<hr>
 
 - 🔭 MERN stack dev.
 - Actually working in a GitLab project.
@@ -16,7 +17,7 @@
   <a href="https://www.instagram.com/t0nydev_/" rel="nofollow">
     <img src="https://elmorotavern.com/wp-content/uploads/2014/06/instagram-icon-32x32-1.png" alt="Instagram" title="Instagram" style="width:50;">
   </a> 
-</div>
+</div>-->
 
 
 <!--

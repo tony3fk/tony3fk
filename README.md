@@ -1,6 +1,19 @@
 # Hi there 👋
 
 <div align="left">
+ 
+  <a href="https://api.daily.dev/get?r=tonydev" target="_blank">
+    <img
+      width="400"
+      align="left"
+      src="https://github.com/tony3fk/tony3fk/blob/main/devcard.svg"
+    />
+  </a>
+</div>
+
+
+
+<!--<div align="left">
   <a href="https://twitter.com/tonydev_">
     <img
       src="https://img.shields.io/twitter/follow/tonydev_?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
@@ -23,7 +36,7 @@
   </a>
 </div>
 
-## I am Tony Rodriguez
+## I am Tony
 
 - Developer at [iTech Global Solutions](https://itechglobal.solutions/)
 - Loves a freshly brewed cup of coffee
@@ -34,7 +47,7 @@
 ![Achievements](https://raw.githubusercontent.com/tony3fk/tony3fk/github-metrics/achievements.svg)
 
 
-
+-->
 
 
 

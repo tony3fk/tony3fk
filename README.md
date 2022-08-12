@@ -26,15 +26,17 @@ In addition to my personal page, you can also follow my main page called <a href
 <p align="left">
 I code with :  👇
   <br>
-  <img src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-092E20?style=for-the-badge&logo=react&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/angular-5C2D91?style=for-the-badge&logo=angular&logoColor=white"/> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/node.js-38B2AC?style=for-the-badge&logo=node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/svelte-563D7C?style=for-the-badge&logo=svelte&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white"/> 
+
 
 </p>
 

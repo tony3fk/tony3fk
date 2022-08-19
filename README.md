@@ -16,11 +16,7 @@
 </div>  
 <p align="justify"> 
 Hello 🖐️ friends, welcome to my github
- I am Tony Dev and I tried most of the existing professions in the work field, and finally I could find my interest: web development. Almost 5 years have passed. I am programming and now I am a continuous computer science student.
-&nbsp;
-
-In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/t0nydev_/">T0nyDev</a> on Instagram.
-</p>
+ I am Tony Dev and I tried most of the existing professions in the work field, and finally I could find my interest: <b>Web Development</b>. Almost 5 years have passed. I am programming and now I am a continuous computer science student.</p>
 
 
 <p align="left">

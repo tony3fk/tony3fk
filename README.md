@@ -1,8 +1,7 @@
-<img
-      width="400"
-      align="right"
-      src="https://github.com/tony3fk/tony3fk/blob/main/devcard.svg"
-    />
+<img  src="https://github.com/tony3fk/tony3fk/blob/main/devcard.svg" width="400"  align="right" />
+     
+     
+    
 <div align="left">
 
 [![Instagram](https://img.shields.io/badge/tonydev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/t0nydev_/)
@@ -34,27 +33,28 @@ I code with :  👇
   <img src="https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
-
-
 </p>
 
 &nbsp;
 &nbsp;
 ## Github stats 📊 
 
-<details> 
+<div> 
   <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/tony3fk/github-readme-stats"><img alt="TonyDev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=tony3fk&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/tony/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony3fk&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
+    <a href="https://github.com/tony3fk/github-readme-stats">
+       <img alt="TonyDev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=tony3fk&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
+    </a>
+    <a href="https://github.com/tony/github-readme-stats">
+      <img alt="TonyDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony3fk&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
+    </a>
+  </div>
 
-<details>
+<div>
   <summary>Activity Graph 📈</summary>
-  <br/>
-<a href="https://github.com/tony3fk/github-readme-activity-graph"><img alt="TonyDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=tony3fk&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
-</details>
+    <a href="https://github.com/tony3fk/github-readme-activity-graph">
+      <img alt="TonyDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=tony3fk&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" />
+     </a>
+</div>
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
@@ -66,6 +66,6 @@ I code with :  👇
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tony3fk&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">

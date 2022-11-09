@@ -15,7 +15,7 @@
 </div>  
 <p align="justify"> 
 Hello 🖐️ friends, welcome to my github
- I am Tony Dev and I tried most of the existing professions in the work field, and finally I could find my interest: <b>Web Development</b>. Almost 5 years have passed. I am programming and now I am a continuous computer science student.
+ I am Tony and I tried most of the existing professions in the work field, and finally I could find my interest: <b>Web Development</b>. Almost 5 years have passed. I am programming and now I am a continuous computer science student.
 </p>
 
 <br/>

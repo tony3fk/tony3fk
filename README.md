@@ -15,12 +15,13 @@
 </div>  
 <p align="justify"> 
 Hello 🖐️ friends, welcome to my github
- I am Tony Dev and I tried most of the existing professions in the work field, and finally I could find my interest: <b>Web Development</b>. Almost 5 years have passed. I am programming and now I am a continuous computer science student.</p>
+ I am Tony Dev and I tried most of the existing professions in the work field, and finally I could find my interest: <b>Web Development</b>. Almost 5 years have passed. I am programming and now I am a continuous computer science student.
+</p>
 
-
+<br/>
 <p align="left">
 I code with :  👇
-  <br>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-092E20?style=for-the-badge&logo=react&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> 
@@ -40,17 +41,18 @@ I code with :  👇
 ## Github stats 📊 
 
 <div> 
-  <summary>GitHub Profile Stats 💻</summary>
+  <summary>GitHub Profile Stats 💻</summary><br/>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tony3fk&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook">
        <img alt="TonyDev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=tony3fk&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
     </a>
     <a href="https://github.com/tony/github-readme-stats">
       <img alt="TonyDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony3fk&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
     </a>
-  </div>
+</div>
+<br/>
 
 <div>
-  <summary>Activity Graph 📈</summary>
+  <summary>Activity Graph 📈</summary><br/>
     <a href="https://github.com/tony3fk/github-readme-activity-graph">
       <img alt="TonyDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=tony3fk&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" />
      </a>

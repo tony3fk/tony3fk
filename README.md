@@ -10,12 +10,11 @@
 [![github](https://img.shields.io/badge/tonydev-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonyrodz/)
 [![telegram](https://img.shields.io/badge/tonydev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tonyrodz/)
 ![](https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
-
  
 </div>  
 <p align="justify"> 
-Hello 🖐️ friends, welcome to my github
- I am Tony and I tried most of the existing professions in the work field, and finally I could find my interest: <b>Web Development</b>. Almost 5 years have passed. I am programming and now I am a continuous computer science student.
+    Hello 🖐️ friends, welcome to my github
+    I am Tony and I tried most of the existing professions in the work field, and finally I could find my interest: <b>Web Development</b>. Almost 5 years     have passed. I am programming and now I am a continuous computer science student.
 </p>
 
 <br/>
@@ -55,7 +54,7 @@ I code with :  👇
   <summary>Activity Graph 📈</summary>
   <br/>     
   <a href="https://github-readme-activity-graph.cyclic.app/graph?username=tony3fk&theme=monokai">
-     <img alt="TonyDev's Ativity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tony3fk&theme=monokai"/>
+     <img alt="TonyDev's Ativity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tony3fk&theme=monokai" height="192px"/>
   </a>
 </div>
 

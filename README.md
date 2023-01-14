@@ -38,9 +38,9 @@ I code with :  👇
 &nbsp;
 &nbsp;
 ## Github stats 📊 
-
-<div> 
-  <summary>GitHub Profile Stats 💻</summary><br/>
+<summary>GitHub Profile Stats 💻</summary>
+<br/>
+<div style="display:flex"> 
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tony3fk&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook">
        <img alt="TonyDev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=tony3fk&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
     </a>

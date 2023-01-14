@@ -52,11 +52,13 @@ I code with :  👇
 <br/>
 
 <div>
-  <summary>Activity Graph 📈</summary><br/>
-    <a href="https://github.com/tony3fk/github-readme-activity-graph">
-      <img alt="TonyDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=tony3fk&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" />
-     </a>
+  <summary>Activity Graph 📈</summary>
+  <br/>     
+  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=tony3fk&theme=monokai">
+     <img alt="TonyDev's Ativity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tony3fk&theme=monokai"/>
+  </a>
 </div>
+
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->

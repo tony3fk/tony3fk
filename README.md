@@ -33,6 +33,7 @@ I code with :  👇
   <img src="https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/solidity-E34F26?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
 
 &nbsp;

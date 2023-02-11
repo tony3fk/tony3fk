@@ -6,7 +6,7 @@
 
 [![Instagram](https://img.shields.io/badge/tonydev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/t0nydev_/)
 [![Twitter](https://img.shields.io/badge/tonydev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/tonydev/)
-[![Linkedin](https://img.shields.io/badge/tonydev-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonyrodz/)
+[![Linkedin](https://img.shields.io/badge/tonydev-%230a66c2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonyrodz/)
 [![github](https://img.shields.io/badge/tonydev-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonyrodz/)
 [![telegram](https://img.shields.io/badge/tonydev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tonyrodz/)
 ![](https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
@@ -21,19 +21,19 @@
 <p align="left">
 I code with :  👇
   <br/><br/>
-  <img src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-092E20?style=for-the-badge&logo=react&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Typescript-2f72bc?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/angular-5C2D91?style=for-the-badge&logo=angular&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/angular-ea0707?style=for-the-badge&logo=angular&logoColor=white"/> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/node.js-38B2AC?style=for-the-badge&logo=node.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/svelte-563D7C?style=for-the-badge&logo=svelte&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS-3492cb?&style=for-the-badge&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/node.js-89bb3c?style=for-the-badge&logo=node.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/svelte-f23900?style=for-the-badge&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-eac210?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/php-4b568c?style=for-the-badge&logo=php&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/solidity-E34F26?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/solidity-a2a2a2?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
 
 &nbsp;

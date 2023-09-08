@@ -6,8 +6,8 @@
 
 [![Instagram](https://img.shields.io/badge/tonydev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/t0nydev_/)
 [![Twitter](https://img.shields.io/badge/tonydev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/tonydev/)
-[![Linkedin](https://img.shields.io/badge/tonydev-%230a66c2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonyrodz/)
-[![github](https://img.shields.io/badge/tonydev-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonyrodz/)
+[![Linkedin](https://img.shields.io/badge/tonydev-%230a66c2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tony-dev/)
+[![github](https://img.shields.io/badge/tonydev-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tony3fk/)
 [![telegram](https://img.shields.io/badge/tonydev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tonyrodz/)
 ![](https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
  

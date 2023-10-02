@@ -46,6 +46,12 @@ I code with :  👇
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/solidity-a2a2a2?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
+&nbsp;
+       
+<p>If you're wondering why I'm not very active on GitHub lately, it's because I'm working on GitLab: https://gitlab.com/tonyrodz</p>
+
+![TonyDev GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=tony3fk&gitlabUsername=tonyrodz)
+
 
 &nbsp;
 &nbsp;

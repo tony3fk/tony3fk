@@ -18,13 +18,13 @@
      As a software developer, my passion for technology has led me to seek new ways to solve problems and enhance user experience through creative and efficient solutions. Since the beginning of my career, I have worked on a wide variety of projects, ranging from small applications to large enterprise systems.
 </p>
 <p align="justify"> 
-     My experience with multiple programming languages, databases, and development tools allows me to quickly adapt to new environments and challenges. I am passionate about continuous learning and am always seeking new ways to improve my skills and knowledge.
+     My experience with multiple programming languages, databases, and development tools allows me to quickly adapt to new environments and challenges. I am constantly learning and am always looking for new ways to improve my skills and knowledge.
 </p>
 <p align="justify"> 
      In addition to my technical experience, I value teamwork and effective communication in order to efficiently achieve project goals. I strive to work in a collaborative environment and help my team reach its full potential.
 </p>
 <p align="justify"> 
-     I am excited to continue learning and growing as a software developer, and I look forward to contributing to challenging and meaningful projects in the future. I am always willing to connect with other technology professionals, so please don't hesitate to contact me.    
+     I enjoy continually learning and growing as a software developer, and I hope to contribute to challenging and meaningful projects in the future. I'm always willing to connect with other tech professionals, so feel free to contact me.    
 </p>
 
 <br/>

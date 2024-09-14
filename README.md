@@ -4,10 +4,9 @@
     
 <div align="left">
 
-[![Mastodon](https://img.shields.io/badge/@tonydev@fosstodon.org-%236364ff.svg?style=for-the-badge&logo=Mastodon&logoColor=white)](https://fosstodon.org/@tonydev)
-[![Linkedin](https://img.shields.io/badge/tonydev-%230a66c2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tony-dev/)
-[![github](https://img.shields.io/badge/tonydev-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tony3fk/)
-[![Instagram](https://img.shields.io/badge/tonydev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/t0nydev_/)
+[![Linkedin](https://img.shields.io/badge/tonydev-0A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tony-dev/)
+[![github](https://img.shields.io/badge/tonydev-151B23.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tony3fk/)
+[![gitlab](https://img.shields.io/badge/tonydev-28272D.svg?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/tonyrodz)
 ![](https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
  
 </div>  
@@ -15,16 +14,16 @@
     Hello 🖐️ friends, welcome to my GitHub!!
 </p>
 <p align="justify"> 
-     As a software developer, my passion for technology has led me to seek new ways to solve problems and enhance user experience through creative and efficient solutions. Since the beginning of my career, I have worked on a wide variety of projects, ranging from small applications to large enterprise systems.
+     As a software developer, my passion for technology drives me to constantly seek new ways to solve problems and enhance user experience through creative and efficient solutions. My journey spans from web application development to creating innovative mobile apps, allowing me to offer a comprehensive perspective in the world of software development.
 </p>
 <p align="justify"> 
-     My experience with multiple programming languages, databases, and development tools allows me to quickly adapt to new environments and challenges. I am constantly learning and am always looking for new ways to improve my skills and knowledge.
+    I have worked on a wide range of projects, from small web applications to large enterprise systems. As a mobile app developer, I have created solutions for both iOS and Android, leveraging the latest technologies and best practices in mobile development. My experience with multiple programming languages, frameworks, databases, and development tools allows me to quickly adapt to new environments and technological challenges.
 </p>
 <p align="justify"> 
-     In addition to my technical experience, I value teamwork and effective communication in order to efficiently achieve project goals. I strive to work in a collaborative environment and help my team reach its full potential.
+     In all my projects, whether web or mobile, I prioritize the creation of intuitive interfaces and smooth user experiences. I greatly value teamwork and effective communication. My experience in multidisciplinary projects has taught me the importance of collaborating closely with designers, product managers, and other developers to efficiently achieve project goals.
 </p>
 <p align="justify"> 
-     I enjoy continually learning and growing as a software developer, and I hope to contribute to challenging and meaningful projects in the future. I'm always willing to connect with other tech professionals, so feel free to contact me.    
+     I hope to continue improving my skills in web and mobile development and perhaps explore emerging fields such as augmented reality or artificial intelligence applied to mobile applications. I'm open to discussing with other technology experts to share experiences, create interesting projects together, or simply stay updated on the latest trends in software and mobile application development.
 </p>
 
 <br/>
